@@ -2,7 +2,7 @@
 
 <p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ahmed+Murtaja+Web+Developer+;Learning+JavaScript+%7C+Angular+%2B+NodeJs%7C Problem Solving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ahmed+Murtaja+Web+Developer;Learning+JavaScript+%7C+Angular+%2B+NodeJs%7C Problem Solving)](https://git.io/typing-svg)
  
 </P>
 
