@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I am Ahmed Murtaja +Web+Developer+;JavaScript+%7C+Angular+%2B+Problem Solver%7C SQL;Nodejs+%7C+Express+%7C+MongoDB)](https://git.io/typing-svg)
+ 
+</P>
+
+
 <!--
 **ahmedmurtaja/ahmedmurtaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
