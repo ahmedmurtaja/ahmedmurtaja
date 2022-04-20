@@ -15,5 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmurtaja&count_private=true&theme=dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmurtaja&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmurtaja&count_private=true&theme=dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmurtaja&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<h3> ⚙️ &nbsp;GitHub Analytics</h3>
+<p align="center">
+<a href="https://github.com/ahmedmurtaja">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedmurtaja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmurtaja&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<br/>
+
+## 📈 Github stats
+
+<!-- <details>  -->
+<!--   <summary>💻 GitHub Profile Stats</summary> -->
+
+<a href="https://www.saddamarbaa.com/"><img src="https://activity-graph.herokuapp.com/graph?username=ahmedmurtaja&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
+<br/>
