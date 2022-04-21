@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 <!-- <details>  -->
 <!--   <summary>💻 GitHub Profile Stats</summary> -->
 
-<a href=""><img src="https://activity-graph.herokuapp.com/graph?username=ahmedmurtaja&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
+<a href="https://github.com/ahmedmurtaja"><img src="https://activity-graph.herokuapp.com/graph?username=ahmedmurtaja&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
 <br/>
