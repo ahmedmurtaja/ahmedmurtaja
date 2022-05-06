@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/ahmedmurtaja">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedmurtaja&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmurtaja&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmurtaja&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br/>
