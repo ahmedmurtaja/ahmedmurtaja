@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 </p>
 <br/>
 
-[![Title](https://www.hackerrank.com/certificates/iframe/a33b8176fd79)]
 
 
 ## 📈 Github stats
