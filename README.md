@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br/>
 <p align="center">
 
-![LeetCode Stats](https://leetcode.card.workers.dev/ahmedmurtaja?theme=dark&font=source_code_pro&extension=activity)
+<!--![LeetCode Stats](https://leetcode.card.workers.dev/ahmedmurtaja?theme=dark&font=source_code_pro&extension=activity) -->
 
 </p>
 
