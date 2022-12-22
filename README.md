@@ -2,7 +2,7 @@
 
 <p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ahmed+Murtaja+Web+Developer+;Learning+%7C+Angular+%2B+ASP.Net%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ahmed+Murtaja+Web+Developer+;Learning+%7C+ReactJs+%2B+NodeJs)](https://git.io/typing-svg)
  
 </P>
 
@@ -32,7 +32,11 @@ Here are some ideas to get you started:
 </a>
 </p>
 <br/>
+<p align="center">
 
+![LeetCode Stats](https://leetcode.card.workers.dev/ahmedmurtaja?theme=dark&font=source_code_pro&extension=activity)
+
+</p>
 
 
 ## 📈 Github stats
