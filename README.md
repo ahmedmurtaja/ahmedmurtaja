@@ -43,6 +43,5 @@ Here are some ideas to get you started:
 
 <!-- <details>  -->
 <!--   <summary>💻 GitHub Profile Stats</summary> -->
-[![Ahmed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmedmurtaja&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmurtaja&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
