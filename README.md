@@ -2,8 +2,8 @@
 
 <p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ahmed+Murtaja+Web+Developer+;Learning+%7C+ReactJs+%2B+NodeJs)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ahmed+Murtaja+%7C+Software+Engineer)](https://git.io/typing-svg)
+
 </P>
 
 
